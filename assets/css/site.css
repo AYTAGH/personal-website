@@ -33,7 +33,7 @@ body {
   background-color: #FFF;
   color:#000;
   
-  font-size: 13px;
+  font-size: 14px;
   line-height: 18px;
   -webkit-font-smoothing: antialiased;
   
@@ -109,20 +109,20 @@ article:last-child{
 -------------------------------------------------- */
 a:link,
 a:visited {
-	color: #636363;
+	color: #000;
 	text-decoration: none;
 }
 a:hover,
 a:active {
-	color: #000;
+	color: #636363;
 }
 
-p a{
-	border-bottom: 1px solid #636363;
-}
-
-p a:hover{
+.caption a{
 	border-bottom: 1px solid #000;
+}
+
+.caption a:hover{
+	border-bottom: 1px solid #636363;
 }
 
 
@@ -159,8 +159,7 @@ p a:hover{
 }
 
 .menu .current{
-	color:#0000ff;
-/* 	text-shadow:0 0 .25px #0000ff; */
+	border-bottom: 1px solid #000;
 }
 
 /*
@@ -190,7 +189,7 @@ p a:hover{
 	width: 75px;	
 	padding:0px;
 	margin: 0px;
-	font-size: 13px;
+	font-size: 14px;
 	line-height: 17px;
 	background-color: transparent;
 	color: #000;
@@ -245,7 +244,7 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
 #mc_embed_signup form {display:block; position:relative; text-align:left; padding:0;}
 
 
-#mc_embed_signup input {border:1px solid #636363; -webkit-appearance:none; font-size: 13px; line-height: 16px;}
+#mc_embed_signup input {border:1px solid #636363; -webkit-appearance:none; font-size: 14px; line-height: 16px;}
 #mc_embed_signup input.email {padding:0px 4px; margin:0; width:100%; float:left; padding:6px;  margin-bottom:5px; max-width:400px;}
 #mc_embed_signup input:focus {outline:none;}
 
@@ -274,7 +273,7 @@ input:focus:-ms-input-placeholder { color:transparent; } /* IE 10+ */
 -------------------------------------------------- */
 h1, h2, h3, h4, h5, h6 {
   color: #000;
-  font-size: 13px;
+  font-size: 14px;
   line-height: 18px;
   -webkit-font-smoothing: antialiased;
   
@@ -363,10 +362,12 @@ a:hover.tooltip span {
  :::  Button
 -------------------------------------------------- */
 .button{
-	margin-left:0px;
+	margin-left: 5px;
 	border: 1px solid #636363;
 	padding:0px 4px;
+	font-size: 10px;
 	line-height: 16px;
+	text-transform: uppercase;
 }
 
 
@@ -377,6 +378,14 @@ a:hover.tooltip span {
 	display: inline-block;
 }
 
+.tags a {
+	color: #7e7c7c;
+}
+
+.tags a:active, .tags a:hover {
+	color: #000;
+}
+
 
 
 /*
@@ -385,12 +394,12 @@ a:hover.tooltip span {
 
 /* for the colon at the end */
 .dash:after{
-  content: ':';
+  content: '/';
   margin-left:5px;
 }
 
 .tags li:after{
-  content: ':';
+  content: '/';
   margin-left:5px;
 }
 
@@ -421,20 +430,41 @@ a:hover.tooltip span {
 	margin: 0px auto 0px auto;
 }
 
+/* for inner images */
 .caption .inner{
 	margin: 0px auto 20px auto;
 	width: 80%;
 }
 
+.caption h1 {
+	font-family: Georgia, Times, 'Times New Roman', serif;
+	font-size: 24px;
+	line-height: 26px;	
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	margin-bottom: 20px;	
+}
 .caption p{
 	margin-bottom: 20px;
 }
 
+/* for abstracts */
 .caption aside{
-	width:80%;
+	width:100%;
+  font-size: 14px;
+  line-height: 18px;
+  -webkit-font-smoothing: antialiased;
+  
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-style: normal;
+  
+  word-spacing: normal;
 	margin: 0px auto 20px auto;
 }
 
+/* for quotes within text */
 .caption blockquote{
 	width:80%;
 	margin: 20px auto 20px auto;
@@ -444,7 +474,7 @@ a:hover.tooltip span {
 	margin:10px 0px 25px 0px;
 	color:#636363;
 	
-	font-size: 13px;
+	font-size: 14px;
 	line-height: 18px;
 	-webkit-font-smoothing: antialiased;
 	
@@ -457,7 +487,7 @@ a:hover.tooltip span {
 .caption sup{
 	vertical-align: top;
 	
-	font-size: 13px;
+	font-size: 14px;
 	line-height: 18px;
 	-webkit-font-smoothing: antialiased;
 	
@@ -600,13 +630,16 @@ img.vh-0{
 }
 
 a.tooltip {
-  display:none;
+	display:none;
 }
 
 time{
 	display:none;
 }
 
+.tags {
+	display:none;
+}
 /*
  :::  Button
 -------------------------------------------------- */

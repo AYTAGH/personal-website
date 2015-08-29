@@ -9,7 +9,7 @@
 
 				<div class="col-1-3">
 					<ul class="list content">
-						<li>New York, NY 10009</li>
+						<li>New Haven, CT 06511</li>
 						<li>(347)&nbsp;327&nbsp;4033</li>						
 						<li><a href="mailto:info@ayhamghraowi.com" target="_top">info@ayhamghraowi.com</a></li>
 						<li class="vh"><a href="https://twitter.com/ayhamghraowi" target="_blank">@ayhamghraowi</a></li>
@@ -37,11 +37,8 @@
 
 				
 				<div class="col-2-3 caption">
-						<p>Ayham Ghraowi is a designer and teacher based in New York City. He is currently working on a variety of interactive and graphic design projects for museums, libraries and archives.</p>
+						<p>Ayham Ghraowi is an MFA candidate in graphic design at Yale School of Art.</p>
 				</div>				
-
-
-
 			</div>			
 		</article>
 

@@ -1,0 +1,103 @@
+Title:
+
+A Canoe
+
+----
+
+Date:
+
+10/30/2014
+
+----
+
+Tags:
+
+A Canoe, Interview
+
+----
+<--
+
+Text:
+
+<h1>A Canoe, Interview with Shengning Zhang</h1>
+
+<aside>Below is an interview with architect and designer (link: http://www.studiosnng.com/ text: Shengning Zhang). The interview was presented as part of the installation <em>A Canoe</em>.</aside>
+
+Ayham Ghraowi: Let’s start off with the inspiration. Essentially, you can think of the book, or the instructions, as being the first material of the canoe. At what point, when you started the studio, did you decide to initiate the canoe as a project? Did they both happen simultaneously? Was it one before the other? Lets start there.
+
+Shengning Zhang: They started more or less simultaneously, I think. The canoe and the studio came together at the same time as a way of exploring both the desire of wanting to fabricate something that was more of a long term project and to also get into woodworking. I was also thinking about working on something that I could use for my interest in the outdoors. That was a major motivator. And I think its something that gets people talking a little bit, too. Which is really nice. You ask someone: “What do you do?”—“I’m building a canoe.” That’s always a little bit of an exciting thing to talk about. Especially when you are starting out as a new business.
+
+(image: 01.jpg caption: This is the caption class:inner)
+
+AG: How long after the studio started did you purchase the book of instructions?
+
+SZ: I had the book maybe a little bit before the studio even started. I was reading through it on the subway every single morning. As almost this fantasy—a dream that once I leave my job I can start making this thing. It was almost motivation, in a way, to have this guide. I started planning it out. The book is completely like a how-to article. This is what you need, this how much it costs, yada yada. I think even before the studio started I compiled a list of all the materials—all the quantities of things and where I would get them, if I already had them, etc. That kind of got me into it a little bit more.
+
+<blockquote>So, the first thing that I needed to get was the lumber from the lumber yard. This is the first time that I have ever had to transport anything like this. I never knew where to source all this material from in the city. So, I did an online search from the Western Red Cedar Lumber Association website that endorsed certain wholesalers of the product. I found a retailer that was located somewhere in Long Island. Which I thought was the closest place I could go. This was maybe the first week after I left my job. I rented a 17' foot U-Haul. Having never driven a U-Haul before I drove it out onto the parkway—which one is explicitly prohibited from doing—and went out to this little Long Island lumber distributor that looked completely...there was nothing special about it. It was just like any other suburban lumber distributor and that was my initial suspicion of it. I remember thinking: “Wait, is this right?” I go inside and tell the guy that I’m looking for western red cedar in such-and-such plank lengths. I was trying to be very self-confidant about it.</blockquote>
+
+Was there any sort of anxiety about being confident or knowledgeable about this thing that you had never built before?
+
+There was a sort of performance anxiety. Less about the construction and more about the process of procuring the material. And there is a certain language that you use, an industry standard way of describing things, which I continue to learn more about.
+So, I go into the lumber yard and ask the guy about the aforementioned lumber. He gave me a blank look—“We don’t have any of that lumber here. What you are looking for is our sister location.” Which is in Montauk or something. It’s winter time, by the way, middle of February and at this point I’ve already wasted three hours.
+
+And, not to mention, that you had already gotten the canoe—I mean, the U-Haul.
+
+Yeah, I had already very carefully driven it out onto the parkway. And by the time you get out to the suburbs, there is snow everywhere. I was thinking to myself: “I’m not driving this damn thing out to Montauk.” I was also very conscious about how every minute and every mile of this U-Haul is costing me money. And you know, when you start a business those are real issues to think about. I was being very hyper-sensitive about it and in my mind I was calculating the money that was just flying out of my wallet at that moment. 
+I told him that I wasn’t going out to Montauk and that it says that his business is advertising the product on his website. As some sort of a consolation, he directed me to another lumber yard around the corner that just by chance happen to have the correct amount of lumber that I needed. Which in hindsight is absolutely ridiculous, knowing what I know now. It’s not hard to find western red cedar lumber. Within a 10 mile radius of where I work now, you can get it delivered. Just starting off, I didn’t know that.
+
+So, this other lumber yard wasn’t too far from where you were?
+
+Yeah, it took me about half an hour to drive there. When I get there—and you know I’m loading all this lumber up into the truck by myself—I had to do a bit of mental math because...well, maybe to backtrack: before I even started procuring materials, I had to build a model of the canoe based on the lofting charts in the book because I didn’t want to buy existing charts. To explain: one way to build a canoe is to buy the lumber, completely pre-cut into the right plank size. Essentially, you are just buying a kit of parts, you are buying the formwork templates that are all drawn out, full scale for you to build. I decided early on that this was not the direction I wanted to go because I had the woodshop and because I wanted to build the canoe from scratch as much as possible. 
+Since I wanted to build it from scratch, I modeled everything out in 3D and figured out how curves were coming together, the intervals and what not. In the end, the canoe is supposed to be 16'. When I go to the new lumber yard—because its just some random-ass, Podunk lumber yard in the middle of long island—they of course did not have the lumber lengths that I needed. The lumber ended up being too short. So, I had to very meticulously calculate the exact sizes of lumber that I needed from them to make up for the length. At that moment—and I’m not good at mental math—I had to completely reconfigure my original calculations. So, part of the reason why the canoe looking the way that it currently does is because of the short lumber lengths. It was part of the preconditions. Also, the U-Haul wasn’t even big enough to fit the 16' pieces that I needed. Because of those two limiting factors, I came back with shorter pieces of lumber. After I cut up all the lumber at the woodshop I realized that I have about 50 percent more lumber than what I needed. So, now I have all this extra lumber that I use for other projects. This entire whole process was much more expensive than I had anticipated. The irony being that if I had purchased the kit and the prefabricated strips it would have cost about the same amount as renting a U-Haul, driving back and forth, getting the lumber and spending all that time on it all.
+
+But now it’s to be assumed that the next time you build a canoe, it will be much more efficient.
+
+Yeah, exactly. Well, if there is a next time.
+
+Can you elaborate on why having to cut down the lumber is the reason the canoe looks they way it does? What sort of qualities of the canoe are the results of that problem?
+
+Ideally, the planks would extend from the beginning to the end of the canoe. Because I had 10' long pieces, I designed certain intervals where I had to splice the planking together—taking into consideration overlapping joints and not having all the splices in one place because that would structurally unsound.
+
+And that’s why where the planks meet stagger across the canoe?
+
+Yeah, and looking back it’s kind of a fortuitous happening. The look of the canoe is quite nice because of it. It looks a little bit more hand hewn because you see where these pieces of wood are joining together, rather than these perfect, long planks.
+So, then, the next step was cutting out what is called the strongback of the canoe. This is the base that the formwork sits on. If you were to follow the guide properly, you would make the canoe of a certain size. But there are about seven or eight options in the book of what different types of canoes you can make. In the book, they are explicit about not changing the properties of the canoe’s curves. They are all calculated out based on certain hydrodynamic flows. Which I, of course, at this point had no idea about. I chose a canoe based on it looking the nicest. Knowing that it’s going to float and that’s going to do everything I want it to do no matter what. So, the one that I chose to use from the book is designed as an 18' canoe. I decided that that was too large for what I wanted. I had to shrink it down to a 16' size and in doing so I affected the scales and hydrodynamic process. What I didn’t know is that the formwork pieces that the canoe is wrapped around is prescribed at intervals. What I ended up doing was shrinking down the intervals equidistantly but that doesn’t completely work because the curves at the two ends of the canoe are very complex.
+
+What was the reason for scaling it down in the first place, from 18' to 16'?
+
+The reason was to make a canoe that was more manageable for a one person trek. It was custom for my needs—to put on my own shoulders, throw down in the water and row from New York to wherever. That was it’s appeal to me. Plus, 16' is still big enough that you can have one or two people with full gear in it.
+
+At this point you have all the milled pieces and have scaled down the intervals of the formwork. What was it like assembling it all?
+
+Well, to talk a bit more about the formwork: all the formwork was provided as a lofting chart, which is just a series of numbers that you transcribe into sectional curves onto the canoe. That is something that you can buy as a one-to-one template. But again, I wanted to do everything from scratch so I printed out these large paper templates. Originally, what I wanted to do was have a friend with a CNC machine cut them out of the wood but the timing didn’t work out. I ended up just milling everything myself.
+ 
+The paper templates were just traced onto wood?
+
+I took the paper templates and adhered them to plywood. Then I cut the forms out of the plywood. I took the forms and put them on to the strongback. After that was the planking of the canoe and at this point all the planks had been milled but not assembled.
+The milling and the planking is interesting because I had initially thought that the hardest part of this whole process would be the actual construction of the canoe. It ended up being that the preparation and fabrication of the little pieces that took the most time. The reason why people buy the pre-made version is because it’s a three part process for every strip that you cut. I complicated that matter by adding additional processes because I bought raw lumber. I had to take the raw lumber, mill it down to the correct thickness as a plank, then take the planks and turn it into strips. I then finished the strips by routing out certain indentations to create the cove and bead so that they would fit perfectly together. This all took two or three weeks. So again, I thought that actually constructing the canoe would take that long as well but in reality it took only four days to piece the strips together. And that process is basically just stapling the strips on to the formwork and applying glue as you continue stacking them. Again, the irony is that assembling the canoe is the easiest thing. The beauty of it all is that afterwards you have all these dimples that show the process of assembling after you peel off the staples. 
+Another a part of the process in constructing the canoe is building out the stems—which are the two long ends of the canoe. They have to take a little more of the stress than the soft wood that is used for the body. I had to use epoxy to laminate strips of ashwood together for the stem and I bought a wallpaper steamer to steam the ashwood and clamp it all together. I thought this process would have been a lot harder, as well, but ultimately it wasn’t too bad. That is, until I had to attached the stems onto the canoe.
+
+Can you describe how the canoe looks at this point before the stems are attached?
+
+It should be noted that I’m building the canoe out from the middle. If you think about holding your own hands and crossing your fingers together, thats what it looks like. All these random strips are sticking out beyond the actual canoe and are waiting to be attached to the stems. There wasn’t very informative illustrations on how to do this properly in the book so I went at the strips with a hacksaw. Thinking preemptively that I could chop them off to a certain length because I am a neat freak and I want to keep things organized. After doing this I realized that I chopped things down a little too much, more than I needed to. So that when everything was assembled there were gaping holes that I had to fill up with epoxy. 
+Then I had to temporarily adhere the stem to the formwork that was underneath the canoe. I couldn’t clamp it all together since everything is at these awkward angles and the wood is pretty delicate. I had to temporarily screw the stem into the formwork so it stayed in position while everything is being glued together. I did that without thinking about what would happen to the screws afterwards. At that moment, I just wanted to attach it. I came in the next day, really excited to take out the screws. It then dawned on me that there is a bit of epoxy going through and around the screw. I didn’t think it was going to be that big of deal, you know? They are stainless steel screws. They aren’t going to strip. Now when I try and take out the screws and put the drill to it, the head begins to bend off because of the epoxy. I underestimated how strong the epoxy was. The simple task of removing the screws, which should have taken five minutes, stopped the entire construction process, cold. Now I was stuck with these screws, like mohawk spikes, coming out of the stem of the canoe.
+
+Was there any worry at that point that you had ruined the canoe?
+
+There was a little bit. But at that point, my worry was less about ruining the canoe and more that I was wasting an entire day on this problem. What I had to do was figure out that problem. I ran across the street ran to a motorcycle shop and asked if they had a screw remover. Of course they didn’t, so I purchased online what basically looks like a cylindrical, screw extractor. In my haste in using that tool—because I figured that once I get these screws out I can get on with it—I actually fractured the screw extractor and managed to lodge it into the stem as well. Now not only are there stripped screw heads poking out but there are also shards of this extractor tool stuck inside there as well. 
+What I ended up doing is sawing and filing down all the screws back so that they were flush with the shape of the stem. So, what you see in the canoe is the stem with all these metallic dots that are remnants of that mistake. And because the canoe is not completed, it might still come back to haunt me. Since the screws are still lodged into the formwork, I haven’t figured out exactly how to remove the formwork with all the screws still in it. But that’s a story for another day.
+After that, the process is pretty straight forward. You know, once you see the shape of the canoe, it’s kind of this very motivating thing. It’s funny because the book spends a lot of time talking about certain processes and spends less time about other processes. All with the assumption that you should have done certain things as pretty diligently so that you don’t encounter all the mistakes that I went through. It assumes that you followed all the rules and made everything to the specifications that they laid out. But it doesn’t really give you any…
+
+Forewarning?
+ 
+...forewarning to the complications that arise if you did get a little lazy about things. So, you know, after the canoe comes out you are excited because it finally looks like a canoe. One of the things that the book does warn about is milling out the pieces exactly right so that there wouldn’t be too much sanding to do resulting in very few holes. Because it was my first project starting out, I didn’t really have that much experience milling. In the canoe there are tiny minute variations in the thicknesses of the wood that I had to deal with and what was kind of described as an hour of sanding and scraping, ended up being four days that included time filling in gaps with epoxy so that it forms a smooth surface.
+
+Currently, how far are you into the entire process?
+
+I’m about halfway through. The next step, now that I’ve sanded everything down, is to epoxy the whole canoe. That’s a daunting process because it all has to be done quickly due to the reaction time of the epoxy. All three coats have to be done in one day and that’s why there is currently a bit of procrastination on my part.
+
+Does this bring us up to date on the canoe?
+ 
+...Um...Yes, it does–an un-epoxied canoe that can’t float, yet.
+
+-->

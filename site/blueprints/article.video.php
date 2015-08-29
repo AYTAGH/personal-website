@@ -17,22 +17,6 @@ fields:
     type:   date
     width:  1/2
     format: MM/DD/YYYY
-<!--
-  description:
-    label: Description
-    type:  text
-    icon:  info-circle
--->
-<!--
-  note:
-    label: Note
-    type:  text
--->
-<!--
-  fullvid:
-    label: Fullvid
-    type:  text
--->
   tags:
     label: Tags
     type:  tags

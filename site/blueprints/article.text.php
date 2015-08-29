@@ -23,11 +23,6 @@ fields:
     type:  text
     icon:  info-circle
 -->
-<!--
-  note:
-    label: Note
-    type:  text
--->
   tags:
     label: Tags
     type:  tags
